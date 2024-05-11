@@ -16,8 +16,3 @@
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=xiaonan-37021&show_icons=true&theme=react&title_color=blue&count_private=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaonan-37021&theme=react&layout=compact) |
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaonan-37021&show_icons=true&theme=react&title_color=blue&count_private=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaonan-37021&theme=react&layout=compact" />
