@@ -6,8 +6,6 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-# <a href="https://www.java.com/"><img src="https://www.java.com/favicon.ico" align="right" height="48" width="48" ></a>
-
 
 
 <!--   my-skils -->
