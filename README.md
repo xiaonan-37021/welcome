@@ -7,17 +7,17 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!--   my-skils -->
-<div  style="display: flex; align-items: center;">
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> 
-<h2>My Skill Set</h2>  
-</div>
-
+<p>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40" style="vertical-align: middle;">
+  <strong>My Skill Set</strong>
+</p>
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
