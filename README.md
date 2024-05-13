@@ -3,6 +3,7 @@
 ![](assets/Bottom_up.svg)
 
 >I'm a full stack web developer from China, leaning towards backend web development
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40" style="vertical-align: middle;">
 
 <!--   my-header-img -->
 ![](./src/header_.png)
@@ -12,10 +13,12 @@
 </h3>
 
 <!--   my-skils -->
-<p>
+<!--<p>
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40" style="vertical-align: middle;">
-  <strong>My Skill Set</strong>
+  <span style="font-size: 241px; font-weight: bold;">My Skill Set</span>
 </p>
+ -->
+## 👨‍💻 My Skills Set:
 
 <table><tr><td valign="top" width="33%">
 
@@ -66,7 +69,7 @@
 </h3>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
